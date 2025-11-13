@@ -23,11 +23,12 @@ Nguồn dữ liệu được sử dụng là các yếu tố thời tiết theo 
 
 ```
   ├── data/ 
-        └── hcm_weather_2024.csv 
-  ├── data_analysis.ipynb 
-  ├── data_cleaning_preprocessing.ipynb
-  ├── data_collection.ipynb 
-  └── data_modeling.ipynb  
+  |   └── hcm_weather_2024.csv 
+  ├── 01_data_collection.ipynb 
+  ├── 02_data_cleaning.ipynb
+  ├── 03_data_analysis.ipynb
+  ├── 04_data_preprocessing.ipynb 
+  └── 05_data_modeling.ipynb  
 ```
 
 ### Kết luận của dự án
