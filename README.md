@@ -1,8 +1,6 @@
-#  Phân tích các yếu tố thời tiết gây mưa và dự đoán lượng mưa
-#  Nhóm 20
+#  Phân tích mối liên hệ giữa các yếu tố thời tiết gây mưa và dự đoán lượng mưa
 
-
-### 1. Thành viên Nhóm
+### 1. Thành viên Nhóm 20:
 
 | Thành viên           | MSSV     |
 | :-----------------   | :--------|
@@ -23,12 +21,14 @@ Nguồn dữ liệu được sử dụng là các yếu tố thời tiết theo 
 
 ### 3. Cấu trúc Dự án
 
+```
   ├── data/ 
         └── hcm_weather_2024.csv 
   ├── data_analysis.ipynb 
   ├── data_cleaning_preprocessing.ipynb
   ├── data_collection.ipynb 
   └── data_modeling.ipynb  
+```
 
 ### Kết luận của dự án
 
