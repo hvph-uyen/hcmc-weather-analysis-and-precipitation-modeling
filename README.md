@@ -43,7 +43,7 @@ Mục tiêu của dự án là tìm hiểu các quy luật khí tượng, các y
 
 ### 4. Yêu cầu hệ thống
 Để chạy được các notebook, hệ thống cần có các thư viện Python sau:
-bash```
+```bash
 pip install pandas numpy matplotlib seaborn plotly windrose scikit-learn
 ```
 
