@@ -1,10 +1,14 @@
 # Folder
 .vs/
 data_collection/
-.ipynb_checkpoints/
-
+.DS_Store
+*/.ipynb_checkpoints/*
+__pycache__/
 
 # File
 Test.ipynb
 .cache.sqlite
-.DS_Store
+.ipynb_checkpoints
+data/
+*.csv
+*.xlsx
