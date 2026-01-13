@@ -131,7 +131,8 @@ pip install pandas numpy matplotlib seaborn plotly windrose scikit-learn
 
 ---
 
-### 7. Kết luận của dự án1. Dữ liệu thời tiết có cấu trúc theo chu kỳ rõ ràng
+### 7. Kết luận của dự án
+1. Dữ liệu thời tiết có cấu trúc theo chu kỳ rõ ràng
 - Lượng mưa không phân bố ngẫu nhiên, mà phụ thuộc mạnh vào:
   - Tháng trong năm.
   - Mùa.
